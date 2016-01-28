@@ -1,0 +1,13 @@
+2016-01-28 16:22:27,045 INFO starting to init exchanges in concurent mode
+2016-01-28 16:22:27,055 INFO thread-0 starts to init exchange Bitfinex
+2016-01-28 16:22:27,058 INFO thread-1 starts to init exchange Bittrex
+2016-01-28 16:22:27,060 INFO thread-2 starts to init exchange BTC-e
+2016-01-28 16:22:27,062 INFO thread-3 starts to init exchange Coins-E
+2016-01-28 16:22:27,065 INFO thread-4 starts to init exchange HitBTC
+2016-01-28 16:22:27,068 INFO thread-5 starts to init exchange OKCoin
+2016-01-28 16:22:27,070 INFO thread-5 finished to init exchange OKCoin with success(2 pairs)
+2016-01-28 16:22:27,831 INFO thread-1 finished to init exchange Bittrex with success(202 pairs)
+2016-01-28 16:22:28,248 INFO thread-0 finished to init exchange Bitfinex with success(3 pairs)
+2016-01-28 16:22:28,424 INFO thread-2 finished to init exchange BTC-e with success(16 pairs)
+2016-01-28 16:22:28,665 INFO thread-4 finished to init exchange HitBTC with success(5 pairs)
+2016-01-28 16:22:28,966 INFO thread-3 finished to init exchange Coins-E with success(162 pairs)
